@@ -1,40 +1,29 @@
-AlertOps Expert Guidance
+AlertOps Announces Playbook Automation Focusing on Critical Enterprise Needs in Fast-growing Incident Response Market
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+CHICAGO, Oct. 9, 2018 /PRNewswire/ — Illinois-based digital operations management and real-time collaboration platform AlertOps, announces a renewed focus on Enterprises in the IT Operations Management, DevOps, and SecOps spaces. CIOs and IT leaders need vendors that can merge technology and business scenarios to solve complex collaboration and communication problems. AlertOps’ roadmap reveals disruptive features that deliver on the biggest communication challenges that enterprises face when handling Major IT incidents with Playbook Automation.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+A Hyper-growth Market
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+The incident response market is expanding rapidly with new organizations migrating to the cloud each year, and others taking on new use-cases to protect business-critical services. “This space is increasingly competitive,” says Robert Crum, Vice President of Technology at AlertOps, “with recent acquisitions from companies like Atlassian which acquired OpsGenie for $295 Million, and Splunk which grabbed VictorOps for $120 Million, companies want to stay strategically relevant and exploit new business models, and are investing heavily in this area.”
 
-Clarity
+According to Markets and Markets, the incident response market is expected to grow from USD 13.38 billion in 2018 to USD 33.76 billion by 2023. Major reasons for growth are increased enterprise security breaches, heavy financial losses, and additional compliance requirements – like GDPR.
+
+The Stakes for Enterprise are Higher than Ever
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+A recent interview by ITIC reported that for 33% of enterprises, just one hour of downtime costs their organization between $1 million and $5 million. Additionally, the Ponemon Institute, found that less than half of top executives are informed about an organization’s response process, yet 79% of executives say executive-level involvement is necessary to achieve effective incident response. Teams across an organization need a solution that helps them respond dynamically to situations, so they can make better decisions for the business in real time.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
+Playbook Automation Enables Organizations to Respond Quickly at Scale
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+AlertOps Playbook Automation allows organizations to implement a well-thought-out plan with automated processes and escalations in place ensuring digital operations teams, management, business partners, and customers are all empowered as part of the solution when responding to major incidents.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
+    Flexible – provides advanced flexibility and granularity that Enterprises need when responding to major incidents.
+    Proactive – provides a configurable pre-built Incident Response Playbook template, ensuring all key people and teams are sent relevant, timely and unique alerts.
+    Advanced — an Open API delivers unparalleled access and connections to hundreds of integrations, while simultaneously giving technical teams the granularity they need to build powerful automations.
+    
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-announces-playbook-automation-focusing-on-critical-enterprise-needs-in-fast-growing-incident-response-market/
 
 Read more:
 ====
